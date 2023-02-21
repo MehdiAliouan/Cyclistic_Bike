@@ -16,3 +16,7 @@
 #### Classic bikes were by far the most popular type of bicycles, amounting to 3.1 million trips for the year. Electric bikes came second at 1.9 million trips, while docked bikes came last at around 300,000 trips. Members were the majority users for both classic and electric bikes, while docked bikes were used exclusively by casual users.
 
 #### The average number of rides throughout the week, show two distinct patterns : casual users mostly ride on the weekend, while members trips were spread more equally across the week.
+
+#### total rides over the months from Mai to Septembre are the busiest month, However July appears more popular with casual users.
+
+[Power BI Repport](https://app.powerbi.com/reportEmbed?reportId=a8df39e4-417f-4a8e-a3b8-9cc09aa337ec&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde)
