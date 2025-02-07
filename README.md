@@ -1,4 +1,4 @@
-# Cyclistic_Bike
+## Cyclistic_Bike
 ### Data Analysis with PowerBI
 
 #### Welcome to the Cyclistic bike-share analysis case study In this case study, I will perform many real-world tasks of a junior data analyst. I will work for a fictional company, Cyclistic.
